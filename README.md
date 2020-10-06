@@ -6,7 +6,7 @@ If you use this trace, please cite our paper:
 
 Heng Zhang, Amiya K. Maji, and Saurabh Bagchi. 2020. Privacy in the Mobile World: An Analysis of Bluetooth Scan Traces. In 2020 Joint Workshop on CPS&IoT Security and Privacy (CPSIOTSEC’20), November 9, 2020, Virtual Event, USA. ACM, New York, NY, USA, 5 pages.
 
-The paper is available at [link](xxxx)
+The paper is available at [here](xxxx)
 
 # Sample script
 We have a sample_usage.py file for an easy hands-on check of the data.
