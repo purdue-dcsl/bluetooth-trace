@@ -1,6 +1,5 @@
 # bluetooth-trace
-Bluetooth trace data from Purdue user study. Subject of our CPSIoTSec'20 paper.
-
+Bluetooth trace data from Purdue user study. Subject of our CPSIoTSec'20 paper. We conducted a measurement study and collected traces of Bluetooth advertisements from 49 users over a period of two weeks in Feb-Mar, 2019. The participating users were asked to install an Android app written by the authors which periodically collected and uploaded traces of Bluetooth advertisements and device locations.
 
 If you use this trace, please cite our paper:
 
